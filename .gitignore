@@ -1,0 +1,10 @@
+# Ignorar configurações do IntelliJ IDEA
+.idea/
+
+# Ignorar arquivos de build do Maven
+target/
+
+# Ignorar arquivos do sistema
+*.log
+*.iml
+.DS_Store
