@@ -4,6 +4,9 @@
 # Ignorar arquivos de build do Maven
 target/
 
+# Ignorar
+out/
+
 # Ignorar arquivos do sistema
 *.log
 *.iml
